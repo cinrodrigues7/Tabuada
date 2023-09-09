@@ -1,0 +1,62 @@
+h1 {
+    color: 333px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(226, 220, 223);
+}
+form {
+    color: 333px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 20px;
+    padding: 12;
+   background-color: rgb(226, 220, 223);
+}
+body {
+    color: 333px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+   background-color: rgb(226, 220, 223);
+   border:2px solid rgb(151, 146, 146);
+   box-shadow: 0, 0, 10px rgb(0,0,0,0.1)
+} 
+input {
+    color: 333px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 12;
+    margin: 20px;
+    background-color:  rgb(245, 225, 235);
+    float:none;
+    box-shadow: 0, 0, 10px rgb(0,0,0,0.1);
+}
+label {
+   /* background-color: rgb(245, 225, 235);*/
+}
+
+#resu {
+    background-color: rgb(245, 225, 235);
+    width: 200px;
+    height: 280px;
+    justify-content: center;
+    border:2px solid rgb(151, 146, 146);
+    box-shadow: 0, 0, 10px rgb(0,0,0,0.1);
+    margin: 0 auto;
+    padding-left: 10px;
+
+  /*  box-sizing: border-box;
+    position: relative;
+    align-items: center; 
+    display: block;
+    margin-left: 200;
+    background-origin: padding-box;
+    background-position-x: center;*/
+    /*padding: 12;
+    margin: 20px;
+    box-shadow: 0, 0, 10px rgb(0,0,0,0.1);
+    box-sizing: border-box;*/
+}
+
